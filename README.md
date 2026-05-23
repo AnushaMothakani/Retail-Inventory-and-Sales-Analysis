@@ -21,6 +21,7 @@ Retail Inventory and Sales Analysis project developed using Excel, MySQL, and Po
 
 ## Dashboard Preview
 
+<img width="1306" height="736" alt="Screenshot 2026-05-22 215512" src="https://github.com/user-attachments/assets/34d66904-7611-414a-ba6c-fe4d4fdf009c" />
 
 
 ## Files Included
