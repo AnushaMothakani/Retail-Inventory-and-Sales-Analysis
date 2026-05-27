@@ -34,8 +34,6 @@ region VARCHAR(10));
 
 SHOW TABLES;
 
-USE inventory_analytics_db;
-
 SELECT COUNT(*) FROM fact_sales;      
 SELECT COUNT(*) FROM fact_inventory;
 SELECT COUNT(*) FROM dim_products;
