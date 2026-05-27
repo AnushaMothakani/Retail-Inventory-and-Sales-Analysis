@@ -19,7 +19,7 @@ Retail Inventory and Sales Analysis project developed using Excel, MySQL, and Po
 - Regional performance
 - Inventory risk analysis
 
-## Dashboard Preview
+## Dashboard Screenshot
 
 <img width="1306" height="736" alt="Screenshot 2026-05-22 215512" src="https://github.com/user-attachments/assets/34d66904-7611-414a-ba6c-fe4d4fdf009c" />
 
